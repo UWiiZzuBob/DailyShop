@@ -34,4 +34,11 @@ public class HomeController {
 		return "login";
 	}
 	
+	@GetMapping("/join")
+	public String join() {
+		logger.info("join page");
+		
+		return "join";
+	}
+	
 }
