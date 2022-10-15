@@ -2,11 +2,11 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Daily_login</title>
+	<title>Daily_jogin</title>
 </head>
 <body>
 <h1>
-	join page!  
+	Join page!  
 </h1>
 </body>
 </html>
