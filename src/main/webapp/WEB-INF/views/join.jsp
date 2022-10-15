@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	login page!  
+	join page!  
 </h1>
 </body>
 </html>
